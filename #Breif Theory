@@ -1,0 +1,29 @@
+What is Database?
+
+The database is a electronically stored, systematic collection of Data in a Structured Format.
+
+What is a DBMS?
+
+A DBMS is a system that allows users to create, modify, and query databases while ensuring data integrity, security, and efficient data access.
+
+
+Types of Data base Technlogies 
+
+1) RDBMS -> RDBMS is used for transactional Related Application Like Banking system , ERP Softwares.
+
+2) Data Warehouse -> Data ware House is used in Analytical app.
+
+
+Types of RDBMS -> Oracle, IBM DB2 , MS Sql Server , Postgrey
+
+Types of DATA Warehouse -> Snow Flake , Data Bricks , Teradata , GCP Big Query , AWS Red Shift , AZURE Synapse
+
+
+Difference  and Similarities 
+
+Both has Tables, Column, Data Type Row as Records.
+
+RDBMS is a OLTP(Online Transaction Processing) model on the other hand Data warehouse is a OLAP(Online Analytics Procecssesing) model.
+
+
+
