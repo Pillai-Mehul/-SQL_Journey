@@ -1,0 +1,10 @@
+Task # 01
+
+Try to achive the Following(Replace the PlaceHolders with your Designated Name)
+
+1) Create DB [Database_Name]
+
+2) Create User [User_Name] with the Encrypted Password ['PWD']
+
+3) GRANT ALL PRIVILEGES ON SCHEMA PUBLIC TO [User_Name]
+
