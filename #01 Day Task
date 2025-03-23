@@ -2,9 +2,20 @@ Task # 01
 
 Try to achive the Following(Replace the PlaceHolders with your Designated Name)
 
-1) Create DB [Database_Name]
+1) Create a data base [Database_Name]
 
-2) Create User [User_Name] with the Encrypted Password ['PWD']
+2) Create a User of your choice with the Encrypted Password
 
-3) GRANT ALL PRIVILEGES ON SCHEMA PUBLIC TO [User_Name]
+3) Grant all permissions TO user.
 
+
+Solution # 01 
+
+--Created a Test Database 
+Create Database [Database_Name];
+
+--Created a Test_User
+Create user [User_Name] Encrypted password ['PWD'];
+
+--Granted permissions for the Test_User
+GRANT ALL PRIVILEGES ON SCHEMA PUBLIC TO [User_Name];
