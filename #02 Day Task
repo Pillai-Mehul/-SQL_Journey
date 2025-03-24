@@ -1,0 +1,6 @@
+Tast #02
+
+Create a Clone of the Git repository using the powershell.
+
+git clone [https://url.com/Temp_Name/Data]
+
